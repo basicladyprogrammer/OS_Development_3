@@ -1,0 +1,25 @@
+  Booting 'os'
+
+kernel /boot/kernel.elf
+   [Multiboot-elf, <0x100000:0x80:0x0>, <0x101000:0xc:0x1f84>, shtab=0x1031b8,
+entry=0x10002c]
+
+ß
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
